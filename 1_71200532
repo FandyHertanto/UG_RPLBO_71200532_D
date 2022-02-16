@@ -1,0 +1,24 @@
+import java.awt.im.InputMethodRequests;
+
+public class Soal_1_71200532 {
+    String jenis;
+    public void setJenis(String j){
+        jenis= j;
+    }
+    String mesin;
+    public void setMesin(String M){
+        mesin= m;
+    }
+
+    {
+        public static void main (String[]args){
+        Soal_1_71200532 j = jenis();
+        j.setMesin("J_71200532");
+    }
+        public static void main (String[]args){
+        Soal_1_71200532 m = mobil();
+        m.setMesin("M_71200532");
+    }
+        {1 = merah
+        2 = kuning
+        3 = hijau};
